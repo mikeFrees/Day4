@@ -1,0 +1,16 @@
+{
+  "name": "day4",
+  "version": "1.0.0",
+  "description": "day 4 of the advent of code challenge",
+  "main": "Day4.js",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/repository.git"
+  },
+  "author": "mike frees",
+  "license": "ISC"
+}
