@@ -28,3 +28,6 @@ let points = 0;
 console.log(card);
 return points;
 }
+
+//for testing purpose
+module.exports = { getInput, cardPoints };
